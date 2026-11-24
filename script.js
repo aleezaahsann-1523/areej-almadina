@@ -1,5 +1,5 @@
 /* ==========================================================
-   Areej Almadina Delivery Services - site behaviour
+   Soumt Almadina Delivery Services - site behaviour
    1. Config      2. Header        3. Mobile menu   4. Active link
    5. Animations  6. Service cards 7. WhatsApp      8. Enquiry form
    ========================================================== */
@@ -15,7 +15,7 @@
      form is sent. To receive enquiries directly, paste a form service
      URL here (for example a Formspree endpoint). */
   const CONFIG = {
-    email: "areejalmadina73@gmail.com",
+    email: "soumtalmadina360@gmail.com",
     formEndpoint: "",
     whatsappEnabled: false,
     whatsappNumber: "971508832230", // international format, no + or spaces
